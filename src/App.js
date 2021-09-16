@@ -127,12 +127,3 @@ export default function App() {
     </div>
   );
 }
-
-// things to notice
-// instead of class className is used
-// style - takes an object
-
-// VISER - View Interact State in Event handler  React to it
-
-// is reactdom same as browser dom
-// react translates react dom to browser dom
