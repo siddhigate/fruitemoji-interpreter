@@ -16,7 +16,8 @@ const emojiDictionary = {
   "🍐": "pear",
   "🍒": "cherry",
   "🍓": "strawberry",
-  "🥥": "coconut"
+  "🥥": "coconut",
+  "": ""
 };
 
 var emojis = Object.keys(emojiDictionary);
